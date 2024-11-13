@@ -16,15 +16,15 @@
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-  ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![Qtile](https://img.shields.io/badge/-Qtile-990000?style=flat&logo=qtile&logoColor=white)
-  ![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white)
+  <!-- [macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) -->
+  <!-- ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) -->
+  <!-- ![Qtile](https://img.shields.io/badge/-Qtile-990000?style=flat&logo=qtile&logoColor=white) -->
+  <!-- ![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white) -->
   ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF5733?style=flat&logo=rest-api&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+  <!-- ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) -->
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   <!-- ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white) -->
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -33,7 +33,7 @@
 
 #### 📊 GitHub Stats
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=RiosNicholas&show_icons=true](https://github-readme-stats.vercel.app/api?username=dauphin-davlon&show_icons=true)" alt="David's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dauphin-davlon&show_icons=true" alt="David's GitHub Stats">
 </div>
 
 <!--
